@@ -19,9 +19,11 @@ import javax.swing.JPanel;
  *
  * @author ADMIN
  */
-public class Bai1{
+public class Bai1{  
+    
     JLabel dau,cuoi;
     JFrame mainFrame =new JFrame();
+    
     
     public Bai1(){
         mainFrame.setTitle("Ví dụ Java Swing");
